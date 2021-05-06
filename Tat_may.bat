@@ -1,3 +1,3 @@
 calc
-ping địa chỉ máy
-shutdow -s -t 50
+ping 203.205.27.222
+Shutdown -s -t 50
